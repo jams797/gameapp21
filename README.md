@@ -1,16 +1,15 @@
-# appjuego
+# GameApp21
 
-A new Flutter project.
+Es un juego en flutter sobre el tradicional 21.
 
-## Getting Started
+*It is a flutter game about the traditional 21.*
 
-This project is a starting point for a Flutter application.
+## Detalle | *Detail*
 
-A few resources to get you started if this is your first Flutter project:
+![Detail](https://www.casino.es/imagenes/juegos/blackjack/jugada-blackjack.jpg)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Es un proyecto en flutter con la idea de replicar el juego de cartas 21, en el cual se ingresa con unas monedas y se juega apostando dichas monedas.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+*It's a flutter project with the idea of ​​replicating the card game 21, in which you enter with some coins and play by betting said coins.*
+
+![Detail](https://camo.githubusercontent.com/64b0617b07efdaaff94cf9dd7f91694919452b43c3bfd057576602eddd48ba5b/68747470733a2f2f70732e772e6f72672f656173792d756e6465722d636f6e737472756374696f6e2f6173736574732f62616e6e65722d373732783235302e706e673f7265763d32343137313731)
