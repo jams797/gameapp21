@@ -1,10 +1,10 @@
 enum CardsData {
-  d_as,
-  d_1,
-  d_2,
-  d_3,
+  cas,
+  c1,
+  c2,
+  c3,
 }
 
 Map<CardsData, String> assetsCardsData = {
-  CardsData.d_as: '',
+  //CardsData.d_as: '',
 };
